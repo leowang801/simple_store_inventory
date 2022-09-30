@@ -1,0 +1,17 @@
+{
+    "Inventory Name": "Normal Inventory",
+    "Inventory": [
+        {
+            "Item Name": "Pears",
+            "Quantity": 5
+        },
+        {
+            "Item Name": "Kiwi",
+            "Quantity": 6
+        },
+        {
+            "Item Name": "Strawberry",
+            "Quantity": 7
+        }
+    ]
+}

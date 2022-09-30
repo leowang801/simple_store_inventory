@@ -1,0 +1,29 @@
+{
+    "Inventory Name": "My Inventory",
+    "Inventory": [
+        {
+            "Item Name": "Pens",
+            "Quantity": 10
+        },
+        {
+            "Item Name": "Pencils",
+            "Quantity": 50
+        },
+        {
+            "Item Name": "Pears",
+            "Quantity": 30
+        },
+        {
+            "Item Name": "Lemons",
+            "Quantity": 10
+        },
+        {
+            "Item Name": "Macs",
+            "Quantity": 12
+        },
+        {
+            "Item Name": "Apples",
+            "Quantity": 40
+        }
+    ]
+}
